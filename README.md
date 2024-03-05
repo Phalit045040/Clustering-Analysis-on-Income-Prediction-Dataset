@@ -1,7 +1,6 @@
 # Clustering-Analysis-on-Income-Prediction-Dataset
 
-#File-
-1. train.csv file is the data file.
+File- train.csv file is the data file.
 
    
 Acknowledgments-
