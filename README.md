@@ -1,4 +1,4 @@
-# Clustering-Analysis-on-Income-Prediction-Dataset
+# Consumer_Segmentation_Analysis_for_Market_Insights-Dataset
 The dataset comprises demographic and employment-related information. Our objectives are to explore the data, handle missing values, and encode categorical variables. We'll then employ K-means clustering to group individuals based on attributes. The quality of clusters will be assessed using silhouette and Davies-Bouldin scores. Finally, we'll analyze and interpret the characteristics of each cluster for insightful understanding of population segments.
 
 File- train.csv file is the data file.
